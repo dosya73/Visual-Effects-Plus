@@ -2,7 +2,19 @@
 
 All notable changes to Visual Effects + will be documented in this file.
 
-## [1.1.0] - 2026-06-01
+## [1.1.3] - 2026-06-01
+
+- falling leaves not working fixed
+
+## [1.1.2] - 2026-06-01
+
+- few textures changed
+
+## [1.1.1] - 2026-05-31
+
+- mcmeta fix
+
+## [1.1.0] - 2026-05-31
 
 ## General
 - Basic expression optimization for particles
