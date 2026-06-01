@@ -2,7 +2,7 @@
 
 All notable changes to Visual Effects + will be documented in this file.
 
-## [1.1.3] - 2026-06-01
+## [1.1.3] - 2026-06-02
 
 - falling leaves not working fixed
 
