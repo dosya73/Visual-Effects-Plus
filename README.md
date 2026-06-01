@@ -2,6 +2,8 @@
 
 Visual Effects + is a Minecraft resource pack focused on improving visual effects, particles, atmosphere, lighting, weather, and environmental details.
 
+![logo](docs/logo.png)
+
 ## Features
 
 - Enterily new particles with their own spawn events
