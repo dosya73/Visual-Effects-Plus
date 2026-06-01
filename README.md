@@ -32,4 +32,4 @@ Some shaders can broke existing particles.
 
 ## License
 
-See LICENSE.
+See [LICENSE](https://github.com/dosya73/Visual-Effects-Plus/blob/main/LICENCE). 
