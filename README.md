@@ -16,7 +16,7 @@ Visual Effects + is a Minecraft resource pack focused on improving visual effect
 ## Requirements
 
 - Minecraft Java Edition
-- Polytone
+- [Polytone](https://modrinth.com/mod/polytone)
 
 ## Installation
 
